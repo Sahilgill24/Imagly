@@ -1,9 +1,9 @@
-# Imagly-
+# Imagly
 
 
-It is a website which a team of four includign myself had made for " Syntax error " a hackathon organised in IIT Roorkee 
+It is a website which a team of four including myself had made for "Syntax error" a hackathon organised in IIT Roorkee 
 and we had won the first prize , It is a website where you can draw anything just like a normal paint app but also draw using your finger 
-virtually 
+virtually using the air cursor. 
 
 
 
